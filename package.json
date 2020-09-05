@@ -60,7 +60,7 @@
     "ngx-quill": "^3.4.0",
     "ngx-toastr": "^8.10.2",
     "ngx-toggle": "^1.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "numeral": "^2.0.6",
     "perfect-scrollbar": "^1.4.0",
     "print-js": "^1.0.61",
